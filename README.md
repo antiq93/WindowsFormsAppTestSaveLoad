@@ -6,14 +6,23 @@ It took me around 8 to 10 hours to create this app as it is right now, I haven't
 
 
 To do:
+
 -Save functionality is a bit buggy. Sometimes crashes the app multiple times in a row and sometimes works like a charm.
+
 -Both Save and Save As can crash if the rich text box is empty. Adding a check to see if the RichTextBox is empty doesn't seem to solve the issue.
+
 -Load Selected Recent File does crash if no recent file is selected in the list box, forgot to add selection validation.
+
 -Need to add "Are you sure you want to exit without saving" functionality(compare function).
+
 -Documentation of the various methods is severely lacking due to time constraints.
+
 -Might add another function to use an array of strings when dealing with user data to help make code more readable.
+
 -Other user data functions could use another pass for better performance as well.
+
 -Might replace button press functions with simply invoking neede functions wherever applicable.
+
 -Might add missing functionality initially required (password encryption/decryption during file IO, default values...)
 
 
