@@ -30,31 +30,60 @@ Requested app specification text added below:
 
 General
 All code must be written using C# and Windows Forms (.NET 4.7 or newer and Visual Studio 2019 or newer).
+
 Test results may contain multiple projects, but all projects must be a part of a single Visual Studio solution. The solution must be fully buildable without any errors or warnings.
+
 All code identifiers (forms, components, classes, methods, properties, fields…) must be named using meaningful English names describing their function.
+
 Usage of NuGet packages is allowed. All other 3rd party components are not allowed.
+
 Task
+
 We need a GUI application (Windows Forms) that will provide functionality to create, save and load projects.
+
 Project is defined by the following parameters:
+
 • Server name
+
 • Database name
+
 • Username
+
 • Password
+
 • Parameters (multiline)
+
 The application needs to provide the following functionality:
+
 • Save Project data to a file
+
 • Load Project data from a file
+
 • Optional (bonus):
+
 o Password encryption/decryption when saving and loading data
+
 o Unit tests for save and load functionality
+
 • GUI to fill in all the project data
+
 • Save/Save As project to a file
+
 • Load project from file (and populate the GUI)
+
 • New project (clears all entered data)
+
 • Implement options to set default values
+
 o Default values are used when program is started, or new project is created
+
 • Recent file (projects) list
+
 o The application should remember last 5 projects
+
 o The list must be saved when application is closed and loaded on next application start
+
 o The user must be able to load recent project
+
 o Ability to configure number of recent files
+
