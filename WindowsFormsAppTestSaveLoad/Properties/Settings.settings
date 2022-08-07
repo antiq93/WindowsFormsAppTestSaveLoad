@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsAppTestSaveLoad.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NumRecent" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="Recent1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test\test.txt</Value>
+    </Setting>
+    <Setting Name="Recent2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test\rwqeqw.txt</Value>
+    </Setting>
+    <Setting Name="Recent3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test\qwer.txt</Value>
+    </Setting>
+    <Setting Name="Recent4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test\1234.txt</Value>
+    </Setting>
+    <Setting Name="Recent5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test\prazno.txt</Value>
+    </Setting>
+    <Setting Name="Recent6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test\proba.txt</Value>
+    </Setting>
+    <Setting Name="Recent7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test\probica.txt</Value>
+    </Setting>
+    <Setting Name="Recent8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test\rwqeqweqweqwewq.txt.txt</Value>
+    </Setting>
+    <Setting Name="Recent9" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test\Zvezdana.txt</Value>
+    </Setting>
+    <Setting Name="Recent10" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\test\Zvezdica.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
